@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gerardo Espinoza.
--🌱 I’m currently taking a FinTech Course from Pepperdine University.
+-🌱 I’m currently taking a FinTech Course @ Pepperdine University.
 - 📫 You can reach me via email @ jerry.espinoza0210@gmail.com
 
 <!---
