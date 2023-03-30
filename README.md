@@ -17,6 +17,7 @@ fields of interest:
         "Smart Contracts",
         "Machine Learning",
         "Neural Networks",
+        "Data Analytics"
       ]
 languages being learned:
       [
