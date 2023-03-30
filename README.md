@@ -1,5 +1,5 @@
 
-
+# About myself
 
 ```yaml
 name: Gerardo Espinoza
@@ -26,3 +26,5 @@ languages being learned:
        ]
    
 ```
+
+# Technologies Used
