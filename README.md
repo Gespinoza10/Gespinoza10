@@ -19,6 +19,7 @@ fields of interest:
         "Neural Networks",
         "Data Analytics"
       ]
+      
 languages being learned:
       [
         "Python",
