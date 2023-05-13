@@ -7,7 +7,7 @@ location: Los Angeles
 current job: EdX Centralized Grader Financial Technology
 education:
       [ 
-        "Sophmore @Moorpark College-->Computer Science",
+        "Sophmore at Moorpark College 'Computer Science' ",
         "Financial Technology Bootcamp September 2021"
        ]
         
@@ -20,7 +20,7 @@ fields of interest:
         "Data Analytics"
       ]
       
-languages being learned:
+languages used:
       [
         "Python",
         "CPP",
