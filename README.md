@@ -2,9 +2,9 @@
 # About myself
 
 ```yaml
-name: Gerardo Espinoza
-location: Los Angeles
-current job: EdX Centralized Grader Financial Technology
+Name: Gerardo Espinoza
+Location: Los Angeles
+Current job: EdX Centralized Grader Financial Technology
 Education:
       [ 
         "Sophmore at Moorpark College 'Computer Science' ",
