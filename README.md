@@ -5,22 +5,20 @@
 name: Gerardo Espinoza
 location: Los Angeles
 current job: EdX Centralized Grader Financial Technology
-education:
+Education:
       [ 
         "Sophmore at Moorpark College 'Computer Science' ",
         "Financial Technology Bootcamp September 2021"
        ]
         
-fields of interest:
+Fields of Interest:
       [
-        "Blockchain",
-        "Smart Contracts",
+        "Data Science",
         "Machine Learning",
-        "Neural Networks",
-        "Data Analytics"
+        "AI"        
       ]
       
-languages used:
+Programming Languages :
       [
         "Python",
         "CPP",
