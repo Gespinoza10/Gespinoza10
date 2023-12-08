@@ -18,7 +18,7 @@ Fields of Interest:
         "AI"        
       ]
       
-Programming Languages :
+Programming Languages:
       [
         "Python",
         "CPP",
